@@ -23,3 +23,13 @@ If you are China Mainland Resident,Please scan directly to this image at new web
 
 _This website is build by Väinämö Metsälä ,The President of Oneworld Corporate Services,affliated to The Altitude Travel.
 Copyright 2018 All rights reserved. Thanks for Github._
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-129765279-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-129765279-1');
+</script>
