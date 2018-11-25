@@ -1,6 +1,6 @@
 ## 寰宇商务服务公司官网 Oneworld Corporate Services Website
 
-Welcome to Oneworld Corporate Services,Affliated company of The Altitude Travel Group Website.
+Welcome to Oneworld Corporate Services,Affiliated company of The Altitude Travel Group Website.
 欢迎来到寰宇商务公司官网，附属于高度旅行集团。
 
 Our Website is WeChat Article basis and will updating.so please add our WeChat public number to more information.
@@ -22,5 +22,5 @@ If you are China Mainland Resident,Please scan directly to this image at new web
 通道 1 Channel 1 员工/合作伙伴/客户邮箱系统 Authorised User E-mail [System](http://bit.ly/2Ained1) 
 通道 2 Channel 2 中国大陆入口 China Mainland Access  [System](http://mail.oneworld.tk) 
 
-_This website is build by Väinämö Metsälä ,The President of Oneworld Corporate Services,affliated to The Altitude Travel.
+_This website was built by Väinämö Metsälä ,The President of Oneworld Corporate Services,affiliated to The Altitude Travel.
 Copyright 2018 All rights reserved. Thanks for Github._
