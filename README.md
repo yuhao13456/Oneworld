@@ -19,7 +19,8 @@ If you are China Mainland Resident,Please scan directly to this image at new web
 
 # Website Contact 联系我们: finland@oneworld.tk
 
-
+通道 1 Channel 1 员工/合作伙伴/客户邮箱系统 Authorised User E-mail [System](http://bit.ly/2Ained1) 
+通道 2 Channel 2 中国大陆入口 China Mainland Access  [System](http://mail.oneworld.tk) 
 
 _This website is build by Väinämö Metsälä ,The President of Oneworld Corporate Services,affliated to The Altitude Travel.
 Copyright 2018 All rights reserved. Thanks for Github._
