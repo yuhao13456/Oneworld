@@ -17,35 +17,9 @@ If you are China Mainland Resident,Please scan directly to this image at new web
 
 ![关注我们 Follow Us](https://mp.weixin.qq.com/mp/qrcode?scene=10000004&size=102&__biz=MzUzMzkxNTE0Nw==&mid=100000064&idx=1&sn=faca8d52e9084a417c15ec7983d06039&send_time=)
 
+# Website Contact 联系我们: finland@oneworld.tk
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuhao13456/Oneworld/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_This website is build by Väinämö Metsälä ,The President of Oneworld Corporate Services,affliated to The Altitude Travel.
+Copyright 2018 All rights reserved. Thanks for Github._
